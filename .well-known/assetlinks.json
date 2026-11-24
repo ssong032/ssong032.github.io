@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "kr.commuteenglish.app",
+    "sha256_cert_fingerprints": ["3F:77:63:07:8C:08:4C:08:F3:2A:48:F9:5A:76:11:12:86:38:DB:62:C9:A7:60:48:75:4A:35:94:D5:BE:BF:32"]
+  }
+}]
